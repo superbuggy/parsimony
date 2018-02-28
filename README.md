@@ -1,6 +1,4 @@
-# Minimal Parcel Setup
-
-> See branches for other configs.
+# Minimal Parcel Setup for HyperApp
 
 ## Set up
 

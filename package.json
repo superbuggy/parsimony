@@ -10,9 +10,13 @@
     "test": "echo\"No tests yet. 🙃\""
   },
   "dependencies": {
-    "babel-preset-env": "^1.6.1"
+    "hyperapp": "^1.1.2"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0"
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-core": "^6.26.0",
+    "hyperapp-redux-devtools": "^1.1.6"
   }
 }
